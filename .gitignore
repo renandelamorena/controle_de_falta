@@ -1,0 +1,18 @@
+# === Segredos - NUNCA versionar (repo e publico!) ===
+.streamlit/secrets.toml
+secrets.toml
+*.json
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Sistema
+.DS_Store
+Thumbs.db
